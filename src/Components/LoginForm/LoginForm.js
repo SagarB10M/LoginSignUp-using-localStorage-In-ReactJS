@@ -65,7 +65,7 @@ export const LoginForm = () => {
                 <h1>Login</h1>
                 <div className='input-box'>
                   <input type="text" placeholder='Email' required ref={email} />
-                  <FaUser className='icon' />
+                  <FaEnvelope className='icon' />
                 </div>
                 <div className='input-box'>
                   <input type="password" placeholder='Password' required ref={password} />
