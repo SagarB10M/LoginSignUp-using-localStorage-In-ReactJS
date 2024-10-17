@@ -84,7 +84,7 @@ export const LoginForm = () => {
           ) : (
             <div className="form-box register">
               <form>
-                <h1>Registration</h1>
+                <h1>SignUp</h1>
                 <div className='input-box'>
                   <input type="text" placeholder='Username' required ref={name} />
                   <FaUser className='icon' />
