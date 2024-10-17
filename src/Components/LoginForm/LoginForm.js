@@ -100,7 +100,7 @@ export const LoginForm = () => {
                 <div className="remember-forgot">
                   <label><input type="checkbox" />I agree to the terms & conditions</label>
                 </div>
-                <button onClick={handleClick} type="submit">SignUp</button>
+                <button onClick={handleClick} type="submit">SignUp!..</button>
                 <div className="register-link">
                   <p>Already have an account?<a href="#" onClick={loginLink}>Login</a></p>
                 </div>
